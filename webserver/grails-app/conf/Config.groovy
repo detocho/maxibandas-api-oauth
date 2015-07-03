@@ -68,7 +68,8 @@ environments {
     production {
         grails.logging.jul.usebridge = false
         // TODO: grails.serverURL = "http://www.changeme.com"
-        domainMainUsers = 'http://localhost'
+        //domainMainUsers = 'http://localhost'
+        domainMainUsers = 'http://api.maxibanda.com.mx'
     }
 }
 
